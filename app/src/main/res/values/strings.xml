@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Morpion</string>
+    <string name="bienvenue">Bienvenue</string>
+    <string name="au_x">Au X de jouer !</string>
+    <string name="au_o">Au O de jouer !</string>
+    <string name="win_x">Les croix win !</string>
+    <string name="win_o">Les rond win !</string>
+    <string name="replay">Replay !</string>
+</resources>
